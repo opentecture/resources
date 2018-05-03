@@ -2,6 +2,10 @@
 
 Shared, open resources.
 
+## Directory
+
+* [Resources](./resources)
+
 ### How to contribute to this project?
 
 1. Fork this project repo
