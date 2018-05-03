@@ -4,7 +4,9 @@
 
 * [Blokable](http://www.blokable.com/)
 * [Blu Homes](https://www.bluhomes.com/)
+* [IdeaBox](http://www.ideabox.us/)
 * [Wikihouse](https://wikihouse.cc/)
+* [Wikkelhouse](https://www.wikkelhouse.com/)
 * [Unity Homes](https://unityhomes.com/)
 
 ### Configurators
@@ -15,11 +17,31 @@
 
 ### Design Products
 
-* [AutoCad](https://www.autodesk.com/products/autocad/overview)
+* [Archilogic - 3d.io](https://3d.io/)
+* [Archilogic - Spaces](https://spaces.archilogic.com/explore)
+* [Autodesk - AutoCad](https://www.autodesk.com/products/autocad/overview)
 * [Ladybug Tools](http://ladybug.tools/)
-* [Sketchup](https://www.sketchup.com/)
+* [Trimble - Sketchup](https://www.sketchup.com/)
 
 ### 3d Printers / Product Fabrication
 
-* [Shapeo](https://www.autodesk.com/products/autocad/overview)
+* [Sculpteo](https://www.sculpteo.com/en/)
 * [Shapeways](https://www.shapeways.com/)
+
+### Community + How-to
+
+* [Wikihouse Community Guide](https://legacy.gitbook.com/book/harryknight/wikihouse-slack/details)
+
+### Websites
+
+* [Metal Building Homes](http://www.metal-building-homes.com/)
+
+### Kits + Blueprints
+
+* [Metal Building Homes](http://www.metal-building-homes.com/steel-metal-home-building-kit-of-3500-sq-ft-for-36995/#)
+* [Wikihouse Libary](https://wikihouse.cc/library)
+
+### Experiments
+
+* [Intrastructures](http://intrastructures.net/Intrastructures/Concepts_-_Herbus_Habilis.html)
+* [Wikihouse Viewer Experiements](http://wikihouse.github.io/viewer-experiments/)
