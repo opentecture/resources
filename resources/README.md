@@ -56,6 +56,8 @@
 
 * [Campsyte](https://campsyte.com/)
 * [Wikihouse Community Guide](https://legacy.gitbook.com/book/harryknight/wikihouse-slack/details)
+* [Open Building Institute]( https://www.openbuildinginstitute.org/ )
+	* AT THE HEART OF THE PROJECT IS A LIBRARY OF BUILDING MODULES—walls, windows, doors, roof, utility and functional modules, etc.—that can be combined to create a variety of structures: studios, homes, multi-family houses, greenhouses, barns, workshops, schools, offices, etc.
 
 ### Websites
 
