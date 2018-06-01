@@ -6,9 +6,11 @@
 * [Empathy in Collaborative meaning-making](https://dk-media.s3.amazonaws.com/AA/AL/diapraxis/downloads/294630/Empathy_in_Collaborative_Meaning-Making.pdf)
 * [The Information Architecture of Cites](http://zeta.math.utsa.edu/~yxk833/InfoCities.html)
 * [John Habraken](http://www.habraken.com/)
+* [MIT Self Assembly Lab](https://selfassemblylab.mit.edu/)
 * [Modular Coordination](https://s3-us-west-1.amazonaws.com/opentecture/resources/Modular_Coordination.pdf)
 * [Nail-o](http://nailo.media.mit.edu/) by MIT
 * [Open Building](http://www.open-building.org/ob/concepts.html)
+* [Sears Catalog Homes](https://en.wikipedia.org/wiki/Sears_Catalog_Home) - [Archives](http://www.arts-crafts.com/archive/sears/)
 
 ### Companies
 
@@ -17,8 +19,10 @@
 * [Blu Homes](https://www.bluhomes.com/)
 * [Bone Structure](https://bonestructure.ca/)
 * [Collective Works](http://collectiveworks.net/)
+* [FactoryOS](https://factoryos.com/)
 * [IdeaBox](http://www.ideabox.us/)
 * [Intellistructures](https://intellistructures.com/)
+* [MetsaWood](https://www.metsawood.com/global/Campaigns/planb/open-source-wood/Pages/default.aspx)
 * [Studio Weave](http://www.studioweave.com/)
 * [Weehouse](http://www.weehouse.com/)
 * [Wikihouse](https://wikihouse.cc/)
@@ -32,11 +36,16 @@
 * [Floored](http://www.floored.com/homepage/) by CBRE
 * [spacegoo.com](http://www.spacegoo.com/lignum/index.php?constructor=Demo1)
 
+### 3d Programming
+
+* [Mathematical Illustrations - a manual of geometry and postscript](http://www.math.ubc.ca/~cass/graphics/manual/)
+
 ### Design Products
 
 * [Archilogic - 3d.io](https://3d.io/)
 * [Archilogic - Spaces](https://spaces.archilogic.com/explore)
 * [Autodesk - AutoCad](https://www.autodesk.com/products/autocad/overview)
+* [Componance](http://componance.com/)
 * [Fabhub](https://www.fabhub.io/)
 * [Ladybug Tools](http://ladybug.tools/)
 * [Octopart](https://octopart.com/common-parts-library)
@@ -62,6 +71,7 @@
 ### Websites
 
 * [Metal Building Homes](http://www.metal-building-homes.com/)
+* [Sam Marts Architects](http://www.architectsmart.com/)
 
 ### Kits + Blueprints
 
