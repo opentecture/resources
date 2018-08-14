@@ -70,7 +70,6 @@
 
 [6 Stunning Open Source House Designs from Paperhouses - Shareable](https://www.shareable.net/blog/6-stunning-open-source-house-designs-from-paperhouses)
 
-### 2014
 
 ### 2015
 
@@ -165,6 +164,12 @@
 [Infinite orgs - Wevolve](https://wevolve.us/Infinite-orgs)
 
 [Dynamicland](https://dynamicland.org/)
+
+[speckleworks/speckleworks.github.io: the speckleworks website 🌍](https://github.com/speckleworks/speckleworks.github.io)
+
+[Speckle 1.0.0](https://speckle.works/log/versionone/)
+
+[Home - Open Collective](https://opencollective.com/)
 
 ## configurators
 
@@ -276,6 +281,8 @@
 
 [WikiHouse Viewer Experiments](http://wikihouse.github.io/viewer-experiments/)
 
+[WikiHouse - Wikipedia](https://en.wikipedia.org/wiki/WikiHouse)
+
 [Plethora Project](https://www.plethora-project.com/)
 
 ### OpenStructures
@@ -338,6 +345,46 @@
 
 [dortheimer/open-architecture: Open Source license for Architecture and construction](https://github.com/dortheimer/open-architecture)
 
+## lego
+
+[LEGO® Life](https://www.lego.com/en-us/life)
+
+[LEGO | 3D Warehouse](https://3dwarehouse.sketchup.com/model/5d041dd10944d3b570d45c28bef72613/LEGO?hl=en)
+
+[PrintABrick - Web catalogue of LEGO® parts for 3D printing](https://printabrick.org/)
+
+[Print a Brick: All LEGO® parts and sets by hroncok - Thingiverse](https://www.thingiverse.com/thing:2411971)
+
+[Super-Sizing Lego Sets Is the Only Reason You Need a 3D Printer](https://sploid.gizmodo.com/super-sizing-lego-sets-is-the-only-reason-you-need-a-3d-1798494911)
+
+[3D models tagged lego - Sketchfab](https://sketchfab.com/tags/lego)
+
+[Build with Chrome](https://www.buildwithchrome.com/)
+
+[legolizer, custom lego objects](http://www.drububu.com/miscellaneous/legolizer/index.html)
+
+[LeoCAD - Virtual LEGO CAD Software](https://www.leocad.org/)
+
+[LDraw.org - Home](http://www.ldraw.org/)
+
+[BrickLink - Studio](https://studio.bricklink.com/v2/build/studio.page)
+
+[Best Free Lego Building Software | Gizmo's Freeware](https://www.techsupportalert.com/content/best-free-lego-building-program.htm)
+
+[Mecabricks.com | Workshop](https://www.mecabricks.com/en/workshop)
+
+[Brickify your 3D designs | Tinkercad](https://www.tinkercad.com/bricks)
+
+[adius/awesome-lego: Curated list of awesome LEGO resources](https://github.com/adius/awesome-lego)
+
+[8 open source LEGO projects | Opensource.com](https://opensource.com/life/15/11/8-open-source-lego-projects)
+
+[LEGO and Open Source](http://danny316p.github.io/LEGO_and_Open_Source/s5/s5-lego_and_open_source.html)
+
+[danny316p/LEGO\_and\_Open_Source: This is a slide-based presentation prepared for ease of use by anyone, anywhere, for use in discussing how the LEGO fan community and the open source community play off each other.](https://github.com/danny316p/LEGO_and_Open_Source)
+
+[bickworld ***](https://substack.neocities.org/brickworld.html)
+
 ## manifestos
 
 [Urban Versioning System 1.0](http://uvs.propositions.org.uk/uvslongver.html)
@@ -356,9 +403,21 @@
 
 [Journal of Design and Science](https://jods.mitpress.mit.edu/)
 
+[ArchDaily | Broadcasting Architecture Worldwide](https://www.archdaily.com/)
+
+[P2P Foundation | Researching, documenting and promoting peer to peer practices](https://blog.p2pfoundation.net/)
+
 ## open objects furniture
 
+### thingiverse
+
+[Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)
+
+[Thingiverse - Wikipedia](https://en.wikipedia.org/wiki/Thingiverse)
+
 [3D Printing With Kwambio: Ceramics | Porcelain Objects](http://kwambio.com/#/)
+
+[Componance - Modern Architectural Hardware - USA and Canada](http://componance.com/)
 
 [Componance - Modern Architectural Hardware - USA and Canada](http://componance.com/)
 
@@ -388,7 +447,7 @@
 
 [You3Dit - 3D Design and Fabrication Platform - Make Anything, Anywhere! Bring your custom ideas to life!](https://www.you3dit.com/)
 
-[Componance - Modern Architectural Hardware - USA and Canada](http://componance.com/)
+[High Resolution SLA and SLS 3D Printers for Professionals | Formlabs](https://formlabs.com/)
 
 ## opentecture
 
@@ -399,6 +458,7 @@
 [Opentecture github](https://github.com/opentecture)
 
 [opentecture/open-resources: Shared, open resources (references, links, inspiration, and more)](https://github.com/opentecture/open-resources)
+
 
 ## organizations
 
@@ -428,6 +488,8 @@
 
 [P2P Foundation | Researching, documenting and promoting peer to peer practices](https://blog.p2pfoundation.net/)
 
+[Home Page - P2P Foundation](https://p2pfoundation.net/)
+
 [RSD7 - RELATING SYSTEMS THINKING AND DESIGN 7 SYMPOSIUM](http://www.rsd7.org/)
 
 [sg2016 Gothenburg — smartgeometry](https://www.smartgeometry.org/sg2016-gothenburg/)
@@ -440,7 +502,23 @@
 
 [Web3D Consortium - Royalty Free, Open Standards for Real-Time 3D Communication](http://www.web3d.org/)
 
+### open-source-ecology
+
+[Open Source Ecology](https://www.opensourceecology.org/)
+
+### open-building-institute
+
+[Open Building Institute](https://www.openbuildinginstitute.org/)
+
 ## people
+
+### alastair-parvin
+
+[Alastair Parvin (@AlastairParvin) | Twitter](https://twitter.com/AlastairParvin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+[opensystemslab](https://www.opensystemslab.io/hello-world)
+
+[Alastair Parvin – Medium](https://medium.com/@AlastairParvin)
 
 ### mitchell-joachim
 
@@ -456,14 +534,35 @@
 
 [Scott Mitchell open object](http://www.openobject.org/)
 
+### thomas-lomee
+
+[(7) Thomas Lommée | LinkedIn](https://www.linkedin.com/in/thomas-lomm%C3%A9e-088b535/)
+
+[Thomas Lommée - Das Dynamische Archiv](http://dasdynamischearchiv.de/thomas-lommee/)
+
+[Project team – CAPA CITY](https://www.capa-city-ensuf.eu/projectteam/)
+
+### sebastien-lucas
+
+[Building Bricks — Bricks team](http://we.openbricks.io/post/121439352247/team)
+
+[sinsunsan (Sébastien LUCAS)](https://github.com/sinsunsan)
+
+[ArtStation - Marcin Jakubowski](https://www.artstation.com/jakubowski)
+
+[Marcin J. - 3D Warehouse](https://3dwarehouse.sketchup.com/user/1003226431471152943718096/Marcin-J?nav=models)
+
 ## portals
 
 [DesignEducation.ca - Thousands of Design Resources](http://www.designeducation.ca/)
 
 [Modular building - Wikiwand](http://www.wikiwand.com/en/Modular_building#)
 
-## products kits
+[Bricks, the hub for collaborative design & open source architecture](http://www.openbricks.io/)
 
+[obricks/open-source-architecture: A directory of open source architecture ressources: platforms, communities, projects...](https://github.com/obricks/open-source-architecture)
+
+### products kits
 [Blokable](https://www.blokable.com/)
 
 [Blu Homes | Modern, Green, Premium Prefab Modular Bay Area Homes](https://www.bluhomes.com/)
@@ -490,9 +589,21 @@
 
 ## reference
 
+### papers
+
+[Bookmarks](chrome://bookmarks/?id=324476)
+
+[3D printing marketplace - Wikipedia](https://en.wikipedia.org/wiki/3D_printing_marketplace)
+
+[3DLT - Wikipedia](https://en.wikipedia.org/wiki/3DLT)
+
 [Architecture for Humanity - Wikipedia](https://en.wikipedia.org/wiki/Architecture_for_Humanity)
 
 [Co-creation - Wikipedia](https://en.wikipedia.org/wiki/Co-creation)
+
+[List of open-source hardware projects - Wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
+
+[Materialise NV - Wikipedia](https://en.wikipedia.org/wiki/Materialise_NV)
 
 [Open Architecture Network - Wikipedia](https://en.wikipedia.org/wiki/Open_Architecture_Network)
 
@@ -512,24 +623,45 @@
 
 [OpenStructures - Wikipedia](https://en.wikipedia.org/wiki/OpenStructures)
 
+[Sculpteo - Wikipedia](https://en.wikipedia.org/wiki/Sculpteo)
+
+[Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
+
+[Shapeways - Wikipedia](https://en.wikipedia.org/wiki/Shapeways)
+
+[Sketchfab - Wikipedia](https://en.wikipedia.org/wiki/Sketchfab)
+
 [Software architecture - Wikipedia](https://en.wikipedia.org/wiki/Software_architecture)
 
 [Thingiverse - Wikipedia](https://en.wikipedia.org/wiki/Thingiverse)
+
+[Threeding - Wikipedia](https://en.wikipedia.org/wiki/Threeding)
 
 [Virtual Organization for Innovative Conceptual Engineering Design - Wikipedia](https://en.wikipedia.org/wiki/Virtual_Organization_for_Innovative_Conceptual_Engineering_Design)
 
 [WikiHouse - Wikipedia](https://en.wikipedia.org/wiki/WikiHouse)
 
 [Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
-
-
-### papers
-
-[Bookmarks](chrome://bookmarks/?id=324476)
-
+[obricks/open-source-architecture: A directory of open source architecture ressources: platforms, communities, projects...](https://github.com/obricks/open-source-architecture)
 
 ## services
 
 [Campsyte - Book inspiring outdoor venues for offsites and events](https://campsyte.com/)
 
 [Contact | 3D Repo™ – 3D Version Control System](http://3drepo.org/contact/)
+
+[Page > Guidelines. > show](http://beta.openstructures.net/pages/9)
+
+[Soma cube - Wikipedia](https://en.wikipedia.org/wiki/Soma_cube)
+
+[Pentomino - Wikipedia](https://en.wikipedia.org/wiki/Pentomino)
+
+[Tetris - Wikipedia](https://en.wikipedia.org/wiki/Tetris)
+
+## parametric design
+
+[Parametric design - Wikipedia](https://en.wikipedia.org/wiki/Parametric_design)
+
+[Parametric Design: What's Gotten Lost Amid the Algorithms | Architect Magazine | Design, Parametric Architecture](https://www.architectmagazine.com/design/parametric-design-whats-gotten-lost-amid-the-algorithms_o)
+
+[WHAT IS PARAMETRIC DESIGN? - ParametricCamp](http://www.parametriccamp.com/en/what-is-parametric-design/)
