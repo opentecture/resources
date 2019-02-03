@@ -57,6 +57,7 @@
 * [OpenStructures](https://ods.matera-basilicata2019.it/en/689-blog/principles/5803-openstructures)
 * [#OpenStructures hashtag on Twitter](https://twitter.com/hashtag/OpenStructures?src=hash&lang=en)
 * [OpenStructures – Institute without Boundaries](http://institutewithoutboundaries.ca/?portfolio=open-structures)
+* [TrussFab: Fabricating Sturdy Large-Scale Structures on Desktop 3D Printers](https://dl.acm.org/citation.cfm?id=3026016)
 
 ### 2018
 
