@@ -34,6 +34,30 @@
 * [Unity Homes](https://unityhomes.com/)
 * [Open Collective](https://opencollective.com/)
 
+
+### Organizations
+
+* [Building Performance Community](https://network.aia.org/buildingperformancecommunity/home)
+* [Opensource.com | Opensource.com](https://opensource.com/about)
+* [SENSORICA](http://www.sensorica.co/home/about-us)
+* [Bricks, the hub for collaborative design & open source architecture](http://www.openbricks.io/)
+* [Home | Open Design Alliance](https://www.opendesign.com/)
+* [Open Architecture Collaborative – Social Design for Social Justice](http://openarchcollab.org/)
+* [Open Building Concepts](http://www.open-building.org/ob/concepts.html)
+* [Open Building Institute](https://www.openbuildinginstitute.org/)
+* [Open Implementation Site Guide](https://web.archive.org/web/20120302133414/http://www2.parc.com/csl/groups/sda/projects/oi/site-guide.html)
+* [Open Source Wood](https://www.metsawood.com/global/Campaigns/planb/open-source-wood/Pages/default.aspx)
+* [Opentecture](https://www.opentecture.com/)
+* [P2P Foundation](https://p2pfoundation.net/)
+* [RSD7 - RELATING SYSTEMS THINKING AND DESIGN 7 SYMPOSIUM](http://www.rsd7.org/)
+* [sg2016 Gothenburg — smartgeometry](https://www.smartgeometry.org/sg2016-gothenburg/)
+* [smartgeometry](https://www.smartgeometry.org/)
+* [Systemic Design Research Network « Systemic Design](https://systemic-design.net/sdrn/)
+* [Wayback Machine](https://web.archive.org/web/20160731220354/http://openarchitecturenetwork.org/)
+* [Web3D Consortium - Royalty Free, Open Standards for Real-Time 3D Communication](http://www.web3d.org/)
+* [z33](https://www.z33.be/contact/)
+
+
 ### Configurators
 
 * [Blu Design Studio](https://www.bluhomes.com/design_studio/)
@@ -75,6 +99,7 @@
 * [Open Building Institute](https://www.openbuildinginstitute.org/)
 	* At the heart of the project is a library of building modules - walls, windows, doors, roof, utility and functional modules, etc.—that can be combined to create a variety of structures: studios, homes, multi-family houses, greenhouses, barns, workshops, schools, offices, etc.
 * [Bricks, the hub for collaborative design & open source architecture](http://www.openbricks.io/)
+* [opentecture/open-resources: Shared, open resources (references, links, inspiration, and more)](https://github.com/opentecture/open-resources)
 
 ### Websites & Portals
 
@@ -117,6 +142,8 @@
 * Sara Hendren - [Website](https://ablersite.org/projects/)
 * Scott Mitchell - [OpenObject](http://www.openobject.org/)
 * Thomas Lommée [Das Dynamische Archiv](http://dasdynamischearchiv.de/thomas-lommee/)
+* Sebastien Lucas - [GitHub](https://github.com/sinsunsan)
+* Ryan Wold [GitHub](https://github.com/afomi)
 
 ### Academia
 
@@ -211,3 +238,7 @@
 * [Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
 * [WikiHouse - Wikipedia](https://en.wikipedia.org/wiki/WikiHouse)
 * [Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
+* [Building Bricks — Bricks team](http://we.openbricks.io/post/121439352247/team)
+* [ArtStation - Marcin Jakubowski](https://www.artstation.com/jakubowski)
+* [Marcin J. - 3D Warehouse](https://3dwarehouse.sketchup.com/user/1003226431471152943718096/Marcin-J?nav=models)
+* [Open Source Ecology](https://www.opensourceecology.org/)

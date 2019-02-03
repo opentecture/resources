@@ -266,8 +266,6 @@
 
 [Machines: Global Village Construction Set | Open Source Ecology](https://www.opensourceecology.org/gvcs/)
 
-[Nervous System | labs](https://n-e-r-v-o-u-s.com/labs/)
-
 [Open Plan Systems - Office Furniture in Richmond, VA](http://www.openplan.com/)
 
 [OS - OpenStructures](http://www.openstructures.net/)
@@ -283,86 +281,3 @@
 [Tylko: The Perfect Shelf for Your Home](https://tylko.com/)
 
 [You3Dit - 3D Design and Fabrication Platform - Make Anything, Anywhere! Bring your custom ideas to life!](https://www.you3dit.com/)
-
-[High Resolution SLA and SLS 3D Printers for Professionals | Formlabs](https://formlabs.com/)
-
-## opentecture
-
-[afomi (Ryan Wold)](https://github.com/afomi)
-
-[Opentecture](https://www.opentecture.com/)
-
-[Opentecture github](https://github.com/opentecture)
-
-[opentecture/open-resources: Shared, open resources (references, links, inspiration, and more)](https://github.com/opentecture/open-resources)
-
-
-## organizations
-
-### american-institute-architects
-
-[Home - Building Performance Community](https://network.aia.org/buildingperformancecommunity/home)
-
-[About — z33](https://www.z33.be/contact/)
-
-[About Opensource.com | Opensource.com](https://opensource.com/about)
-
-[About us - SENSORICA](http://www.sensorica.co/home/about-us)
-
-[Bricks, the hub for collaborative design & open source architecture](http://www.openbricks.io/)
-
-[Home | Open Design Alliance](https://www.opendesign.com/)
-
-[Open Architecture Collaborative – Social Design for Social Justice](http://openarchcollab.org/)
-
-[Open Building Concepts](http://www.open-building.org/ob/concepts.html)
-
-[Open Building Institute](https://www.openbuildinginstitute.org/)
-
-[Open Implementation Site Guide](https://web.archive.org/web/20120302133414/http://www2.parc.com/csl/groups/sda/projects/oi/site-guide.html)
-
-[Open Source Wood](https://www.metsawood.com/global/Campaigns/planb/open-source-wood/Pages/default.aspx)
-
-[P2P Foundation | Researching, documenting and promoting peer to peer practices](https://blog.p2pfoundation.net/)
-
-[Home Page - P2P Foundation](https://p2pfoundation.net/)
-
-[RSD7 - RELATING SYSTEMS THINKING AND DESIGN 7 SYMPOSIUM](http://www.rsd7.org/)
-
-[sg2016 Gothenburg — smartgeometry](https://www.smartgeometry.org/sg2016-gothenburg/)
-
-[smartgeometry](https://www.smartgeometry.org/)
-
-[Systemic Design Research Network « Systemic Design](https://systemic-design.net/sdrn/)
-
-[Wayback Machine](https://web.archive.org/web/20160731220354/http://openarchitecturenetwork.org/)
-
-[Web3D Consortium - Royalty Free, Open Standards for Real-Time 3D Communication](http://www.web3d.org/)
-
-### open-source-ecology
-
-[Open Source Ecology](https://www.opensourceecology.org/)
-
-### open-building-institute
-
-[Open Building Institute](https://www.openbuildinginstitute.org/)
-
-### sebastien-lucas
-
-[Building Bricks — Bricks team](http://we.openbricks.io/post/121439352247/team)
-
-[sinsunsan (Sébastien LUCAS)](https://github.com/sinsunsan)
-
-[ArtStation - Marcin Jakubowski](https://www.artstation.com/jakubowski)
-
-[Marcin J. - 3D Warehouse](https://3dwarehouse.sketchup.com/user/1003226431471152943718096/Marcin-J?nav=models)
-
-## portals
-
-[DesignEducation.ca - Thousands of Design Resources](http://www.designeducation.ca/)
-
-[Modular building - Wikiwand](http://www.wikiwand.com/en/Modular_building#)
-
-[Bricks, the hub for collaborative design & open source architecture](http://www.openbricks.io/)
-
-[obricks/open-source-architecture: A directory of open source architecture ressources: platforms, communities, projects...](https://github.com/obricks/open-source-architecture)
