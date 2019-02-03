@@ -1,6 +1,6 @@
-# Open Resources
+# Opentecture Resources
 
-Shared, open resources.
+Shared, open resources about Modular, Architecture, Design, Systems, and Technology.
 
 ## Directory
 
