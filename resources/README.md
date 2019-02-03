@@ -70,7 +70,6 @@
 * [Web3D Consortium - Royalty Free, Open Standards for Real-Time 3D Communication](http://www.web3d.org/)
 * [z33](https://www.z33.be/contact/)
 
-
 ### Configurators
 
 * [Blu Design Studio](https://www.bluhomes.com/design_studio/)
@@ -87,14 +86,23 @@
 * [Archilogic - 3d.io](https://3d.io/)
 * [Archilogic - Spaces](https://spaces.archilogic.com/explore)
 * [Autodesk - AutoCad](https://www.autodesk.com/products/autocad/overview)
+* [Beetle Blocks editor](http://beetleblocks.com/run/)
 * [Blu Design Studio](https://www.bluhomes.com/design_studio/)
 * [Componance](http://componance.com/)
+* [Graffiti 3D by jscottk](https://jscottk.itch.io/graffiti-3d)
 * [Ladybug Tools](http://ladybug.tools/)
+* [Lumion - Fast Rendering for Architects](https://lumion.com/)
 * [Octopart](https://octopart.com/common-parts-library)
+* [Open 3D Model Viewer](http://www.open3mod.com/)
 * [OpenPlan](http://www.openplan.com/)
 * [OpenStructures](http://openstructures.net/)
+* [SculptGL - A WebGL sculpting app](https://stephaneginier.com/sculptgl/)
+* [Shapesmith.net](http://shapesmith.net/)
+* [SketchThis.NET](http://www.sketchthis.net/)
 * [Speckle 1.0.0](https://speckle.works/log/versionone/)
+* [SolveSpace - parametric 3d CAD](http://solvespace.com/index.pl)
 * [Trimble - Sketchup](https://www.sketchup.com/)
+* [WikiHouse Viewer Experiments](http://wikihouse.github.io/viewer-experiments/)
 
 ### 3d Printers / Product Fabrication
 
@@ -115,6 +123,7 @@
 
 * [Campsyte](https://campsyte.com/)
 * [Wikihouse Community Guide](https://legacy.gitbook.com/book/harryknight/wikihouse-slack/details)
+* [Introduction · Communities Connect Guide](https://harryknight.gitbooks.io/wikihouse-slack/content/)
 * [Open Building Institute](https://www.openbuildinginstitute.org/)
 	* At the heart of the project is a library of building modules - walls, windows, doors, roof, utility and functional modules, etc.—that can be combined to create a variety of structures: studios, homes, multi-family houses, greenhouses, barns, workshops, schools, offices, etc.
 * [Bricks, the hub for collaborative design & open source architecture](http://www.openbricks.io/)
@@ -143,7 +152,8 @@
 * [Mitchell Joachim: Redesign Cities From Scratch](https://www.wired.com/2008/09/sl-joachim/)
 * [Nervous Labs](https://n-e-r-v-o-u-s.com/labs/)
 * [Open Objects](http://www.openobject.org/) by Scott Mitchell
-* [Paperhouses](https://www.shareable.net/blog/6-stunning-open-source-house-designs-from-paperhouses)
+* [Paperhouses](http://paperhouses.co/)
+* [Paperhouses - Shareable](https://www.shareable.net/blog/6-stunning-open-source-house-designs-from-paperhouses)
 * [Plethora Project](https://www.plethora-project.com/)
 * [Project Frog](http://projectfrog.com/)
 * [Smart Geometry](https://www.smartgeometry.org/)
@@ -230,10 +240,37 @@
 * [Pentomino - Wikipedia](https://en.wikipedia.org/wiki/Pentomino)
 * [Tetris - Wikipedia](https://en.wikipedia.org/wiki/Tetris)
 
+### Lego
+
+## lego
+* [LEGO® Life](https://www.lego.com/en-us/life)
+* [LEGO | 3D Warehouse](https://3dwarehouse.sketchup.com/model/5d041dd10944d3b570d45c28bef72613/LEGO?hl=en)
+* [PrintABrick - Web catalogue of LEGO® parts for 3D printing](https://printabrick.org/)
+* [Print a Brick: All LEGO® parts and sets by hroncok - Thingiverse](https://www.thingiverse.com/thing:2411971)
+* [Super-Sizing Lego Sets Is the Only Reason You Need a 3D Printer](https://sploid.gizmodo.com/super-sizing-lego-sets-is-the-only-reason-you-need-a-3d-1798494911)
+* [3D models tagged lego - Sketchfab](https://sketchfab.com/tags/lego)
+* [Build with Chrome](https://www.buildwithchrome.com/)
+* [legolizer, custom lego objects](http://www.drububu.com/miscellaneous/legolizer/index.html)
+* [LeoCAD - Virtual LEGO CAD Software](https://www.leocad.org/)
+* [LDraw.org - Home](http://www.ldraw.org/)
+* [BrickLink - Studio](https://studio.bricklink.com/v2/build/studio.page)
+* [Best Free Lego Building Software | Gizmo's Freeware](https://www.techsupportalert.com/content/best-free-lego-building-program.htm)
+* [Mecabricks.com | Workshop](https://www.mecabricks.com/en/workshop)
+* [Brickify your 3D designs | Tinkercad](https://www.tinkercad.com/bricks)
+* [adius/awesome-lego: Curated list of awesome LEGO resources](https://github.com/adius/awesome-lego)
+* [8 open source LEGO projects | Opensource.com](https://opensource.com/life/15/11/8-open-source-lego-projects)
+* [LEGO and Open Source](http://danny316p.github.io/LEGO_and_Open_Source/s5/s5-lego_and_open_source.html)
+* [danny316p/LEGO\_and\_Open_Source: This is a slide-based presentation prepared for ease of use by anyone, anywhere, for use in discussing how the LEGO fan community and the open source community play off each other.](https://github.com/danny316p/LEGO_and_Open_Source)
+* [bickworld ***](https://substack.neocities.org/brickworld.html)s
+
 ### Other Links
 
 * [3DLT - Wikipedia](https://en.wikipedia.org/wiki/3DLT)
+* [EU2020_Digital](https://espas.secure.europarl.europa.eu/orbis/sites/default/files/generated/document/en/10%20EFFLA%20Study%20-%20Tikka%20-%20Wevolve%20-%20Life%20styles.pdf)
+* [docstoc](http://www.docstoc.com/documents/technology)
+* [dortheimer/open-architecture: Open Source license for Architecture and construction](https://github.com/dortheimer/open-architecture)
 * [How to Create Your Own Lego Models and Buy Them](https://offspring.lifehacker.com/heres-how-your-kids-can-build-lego-models-digitally-and-1827634553)
+* [ibiblio - The Public's Library and Digital Archive](http://www.ibiblio.org/)
 * [Materialise NV - Wikipedia](https://en.wikipedia.org/wiki/Materialise_NV)
 * [Modular building - Wikiwand](http://www.wikiwand.com/en/Modular_building#)
 * [Open Architecture Network - Wikipedia](https://en.wikipedia.org/wiki/Open_Architecture_Network)
@@ -255,6 +292,7 @@
 * [Shapeways - Wikipedia](https://en.wikipedia.org/wiki/Shapeways)
 * [Sketchfab - Wikipedia](https://en.wikipedia.org/wiki/Sketchfab)
 * [Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
+* [Wikibooks](http://www.wikibooks.org/)
 * [WikiHouse - Wikipedia](https://en.wikipedia.org/wiki/WikiHouse)
 * [Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
 * [Building Bricks — Bricks team](http://we.openbricks.io/post/121439352247/team)
