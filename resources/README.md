@@ -74,10 +74,13 @@
 * [Wikihouse Community Guide](https://legacy.gitbook.com/book/harryknight/wikihouse-slack/details)
 * [Open Building Institute](https://www.openbuildinginstitute.org/)
 	* At the heart of the project is a library of building modules - walls, windows, doors, roof, utility and functional modules, etc.—that can be combined to create a variety of structures: studios, homes, multi-family houses, greenhouses, barns, workshops, schools, offices, etc.
+* [Bricks, the hub for collaborative design & open source architecture](http://www.openbricks.io/)
 
-### Websites
+### Websites & Portals
 
+* [DesignEducation.ca - Thousands of Design Resources](http://www.designeducation.ca/)
 * [Metal Building Homes](http://www.metal-building-homes.com/)
+* [obricks/open-source-architecture](https://github.com/obricks/open-source-architecture)
 * [Sam Marts Architects](http://www.architectsmart.com/)
 
 ### Kits + Blueprints
@@ -173,7 +176,7 @@
 * [Parametric Design: What's Gotten Lost Amid the Algorithms](https://www.architectmagazine.com/design/parametric-design-whats-gotten-lost-amid-the-algorithms_o)
 * [WHAT IS PARAMETRIC DESIGN?](http://www.parametriccamp.com/en/what-is-parametric-design/)
 
-## Services
+### Services
 
 * [Campsyte - Book inspiring outdoor venues for offsites and events](https://* campsyte.com/)
 * [Contact | 3D Repo™ – 3D Version Control System](http://3drepo.org/contact/)
@@ -181,3 +184,30 @@
 * [Soma cube - Wikipedia](https://en.wikipedia.org/wiki/Soma_cube)
 * [Pentomino - Wikipedia](https://en.wikipedia.org/wiki/Pentomino)
 * [Tetris - Wikipedia](https://en.wikipedia.org/wiki/Tetris)
+
+### Other Links
+
+* [3DLT - Wikipedia](https://en.wikipedia.org/wiki/3DLT)
+* [Materialise NV - Wikipedia](https://en.wikipedia.org/wiki/Materialise_NV)
+* [Modular building - Wikiwand](http://www.wikiwand.com/en/Modular_building#)
+* [Open Architecture Network - Wikipedia](https://en.wikipedia.org/wiki/Open_Architecture_Network)
+* [Open design - Wikipedia](https://en.wikipedia.org/wiki/Open_design)
+* [Open innovation - Wikipedia](https://en.wikipedia.org/wiki/Open_innovation)
+* [Open standard - Wikipedia](https://en.wikipedia.org/wiki/Open_standard)
+* [Open-source architecture - Wikipedia](https://en.wikipedia.org/wiki/Open-source_architecture)
+* [Open-source model - Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
+* [OpenStructures - Wikipedia](https://en.wikipedia.org/wiki/OpenStructures)
+* [Sculpteo - Wikipedia](https://en.wikipedia.org/wiki/Sculpteo)
+* [Software architecture - Wikipedia](https://en.wikipedia.org/wiki/Software_architecture)
+* [Thingiverse - Wikipedia](https://en.wikipedia.org/wiki/Thingiverse)
+* [Threeding - Wikipedia](https://en.wikipedia.org/wiki/Threeding)
+* [Virtual Organization for Innovative Conceptual Engineering Design - Wikipedia](https://en.wikipedia.org/wiki/* Virtual_Organization_for_Innovative_Conceptual_Engineering_Design)
+* [List of open-source hardware projects - Wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
+* [Co-creation - Wikipedia](https://en.wikipedia.org/wiki/Co-creation)
+* [Architecture for Humanity - Wikipedia](https://en.wikipedia.org/wiki/Architecture_for_Humanity)
+* [Open Design Alliance - Wikipedia](https://en.wikipedia.org/wiki/Open_Design_Alliance)
+* [Shapeways - Wikipedia](https://en.wikipedia.org/wiki/Shapeways)
+* [Sketchfab - Wikipedia](https://en.wikipedia.org/wiki/Sketchfab)
+* [Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
+* [WikiHouse - Wikipedia](https://en.wikipedia.org/wiki/WikiHouse)
+* [Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
