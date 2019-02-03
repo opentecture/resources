@@ -1,37 +1,5 @@
 # opentecture resource bookmarks
 
-## academia
-
-### carnagie-mellon
-
-[Alice.org](http://www.alice.org/index.php?page=what_is_alice/what_is_alice)
-
-[Alice: Free, Easy, Interactive 3D Graphics for the WWW](http://www.alice.org/)
-
-### eth-zurich
-
-[10min guide to your first simulation · architecture-building-systems/RC_BuildingSimulator Wiki](https://github.com/architecture-building-systems/RC_BuildingSimulator/wiki/10min-guide-to-your-first-simulation)
-
-### george-brown
-
-[Institute without Boundaries – Interdisciplinary Design Strategy](http://institutewithoutboundaries.ca/)
-
-### mit
-
-[NailO | MIT Media Lab](http://nailo.media.mit.edu/)
-
-[Self-Assembly Lab](https://selfassemblylab.mit.edu/)
-
-[Open Source Architecture](http://senseable.mit.edu/osarc/)
-
-### open-design-school
-
-[Ods manual v1 by Anton Shynkaruk - issuu](https://issuu.com/antonshynkaruk/docs/ods_manual_v1)
-
-[About](https://ods.matera-basilicata2019.it/en/about)
-
-[Blog](https://ods.matera-basilicata2019.it/en/)
-
 ## articles / videos
 
 ### 2005

@@ -107,3 +107,29 @@
 * Sara Hendren - [Website](https://ablersite.org/projects/)
 * Scott Mitchell - [OpenObject](http://www.openobject.org/)
 * Thomas Lommée [Das Dynamische Archiv](http://dasdynamischearchiv.de/thomas-lommee/)
+
+### Academia
+
+##### Carnegie-Mellon
+
+* [Alice: Free, Easy, Interactive 3D Graphics for the WWW](http://www.alice.org/)
+
+### Eth-zurich
+
+* [10min guide to your first simulation](https://github.com/architecture-building-systems/RC_BuildingSimulator/wiki/10min-guide-to-your-first-simulation)
+
+### George-Brown
+
+* [Institute without Boundaries – Interdisciplinary Design Strategy](http://institutewithoutboundaries.ca/)
+
+### MIT
+
+* [NailO | MIT Media Lab](http://nailo.media.mit.edu/)
+* [Self-Assembly Lab](https://selfassemblylab.mit.edu/)
+* [Open Source Architecture](http://senseable.mit.edu/osarc/)
+
+### Open Design School
+
+* [Ods manual v1 by Anton Shynkaruk](https://issuu.com/antonshynkaruk/docs/ods_manual_v1)
+* [About](https://ods.matera-basilicata2019.it/en/about)
+* [Blog](https://ods.matera-basilicata2019.it/en/)
