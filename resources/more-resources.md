@@ -1,47 +1,5 @@
 # opentecture resource bookmarks
 
-## bim
-
-[AECbytes: Analysis, Research, and Reviews of AEC Technology](http://www.aecbytes.com/index.html)
-
-[BIM Wiki - BIM Wiki](http://bimwiki.com/)
-
-[BIMserver and the potential of server-side BIM | StressFree | David Harrison](http://www.stress-free.co.nz/bimserver_and_the_potential_of_serverside_bim)
-
-[Bimserver.org](http://bimserver.org/)
-
-[BIMStorm - Watch](http://bimstorm.com/i/WatchBimStorm.php)
-
-[BIMsurfer WebGL viewer | Just another The smartBIM network site](http://bimsurfer.org/)
-
-[Index of /citygml](http://schemas.opengis.net/citygml/)
-
-[Industry Foundation Classes - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Industry_Foundation_Classes)
-
-[Journal of Building Information Modeling | Whole Building Design Guide](http://www.wbdg.org/references/jbim.php)
-
-[Model - Industry Foundation Classes (IFC) — buildingSMART](http://buildingsmart.com/standards/ifc)
-
-[SmartBIM Library for Autodesk Revit | SmartBIM | Reed Construction Data](http://www.reedconstructiondata.com/bim/bim-library/)
-
-[Solibri](http://www.solibri.com/)
-
-[Tekla BIMsight Home page](http://www.teklabimsight.com/index.jsp)
-
-[WhiteFeet](http://www.whitefeet.com/)
-
-## collaborating
-
-[Thingpedia - The Open API Collection](https://almond.stanford.edu/thingpedia)
-
-[Stanford MobiSocial Computing Laboratory](https://mobisocial.stanford.edu/)
-
-[Almond – The Open Virtual Assistant | Hacker News](https://news.ycombinator.com/item?id=17532003)
-
-[Almond - The Open Virtual Assistant](https://almond.stanford.edu/)
-
-[How to write a good software design doc – freeCodeCamp](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
-
 ### wevolve.us
 
 [EU2020_Digital](https://espas.secure.europarl.europa.eu/orbis/sites/default/files/generated/document/en/10%20EFFLA%20Study%20-%20Tikka%20-%20Wevolve%20-%20Life%20styles.pdf)
@@ -512,11 +470,3 @@
 [Pentomino - Wikipedia](https://en.wikipedia.org/wiki/Pentomino)
 
 [Tetris - Wikipedia](https://en.wikipedia.org/wiki/Tetris)
-
-## parametric design
-
-[Parametric design - Wikipedia](https://en.wikipedia.org/wiki/Parametric_design)
-
-[Parametric Design: What's Gotten Lost Amid the Algorithms | Architect Magazine | Design, Parametric Architecture](https://www.architectmagazine.com/design/parametric-design-whats-gotten-lost-amid-the-algorithms_o)
-
-[WHAT IS PARAMETRIC DESIGN? - ParametricCamp](http://www.parametriccamp.com/en/what-is-parametric-design/)

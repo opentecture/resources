@@ -133,3 +133,35 @@
 * [Ods manual v1 by Anton Shynkaruk](https://issuu.com/antonshynkaruk/docs/ods_manual_v1)
 * [About](https://ods.matera-basilicata2019.it/en/about)
 * [Blog](https://ods.matera-basilicata2019.it/en/)
+
+### BIM (Building Information Modeling)
+
+* [AECbytes: Analysis, Research, and Reviews of AEC Technology](http://www.aecbytes.com/index.html)
+* [BIM Wiki - BIM Wiki](http://bimwiki.com/)
+* [BIMserver and the potential of server-side BIM | StressFree | David Harrison](http://www.stress-free.co.nz/bimserver_and_the_potential_of_serverside_bim)
+* [Bimserver.org](http://bimserver.org/)
+* [BIMStorm - Watch](http://bimstorm.com/i/WatchBimStorm.php)
+* [BIMsurfer WebGL viewer](http://bimsurfer.org/)
+* [citygml](http://schemas.opengis.net/citygml/)
+* [Industry Foundation Classes - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Industry_Foundation_Classes)
+* [Journal of Building Information Modeling | Whole Building Design Guide](http://www.wbdg.org/references/jbim.php)
+* [Model - Industry Foundation Classes (IFC) — buildingSMART](http://buildingsmart.com/standards/ifc)
+* [SmartBIM Library for Autodesk Revit | SmartBIM | Reed Construction Data](http://www.reedconstructiondata.com/bim/bim-library/)
+* [Solibri](http://www.solibri.com/)
+* [Tekla BIMsight Home page](http://www.teklabimsight.com/index.jsp)
+* [WhiteFeet](http://www.whitefeet.com/)
+
+
+### Collaboration
+
+* [Thingpedia - The Open API Collection](https://almond.stanford.edu/thingpedia)
+* [Stanford MobiSocial Computing Laboratory](https://mobisocial.stanford.edu/)
+* [Almond – The Open Virtual Assistant](https://news.ycombinator.com/item?id=17532003)
+* [Almond - The Open Virtual Assistant](https://almond.stanford.edu/)
+* [How to write a good software design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
+
+### Parametric design
+
+* [Parametric design - Wikipedia](https://en.wikipedia.org/wiki/Parametric_design)
+* [Parametric Design: What's Gotten Lost Amid the Algorithms](https://www.architectmagazine.com/design/parametric-design-whats-gotten-lost-amid-the-algorithms_o)
+* [WHAT IS PARAMETRIC DESIGN?](http://www.parametriccamp.com/en/what-is-parametric-design/)
