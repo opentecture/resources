@@ -5,6 +5,7 @@ Shared, open resources.
 ## Directory
 
 * [Resources](./resources)
+* [More Resources](./resources/more-resources.md)
 
 ### How to contribute to this project?
 
