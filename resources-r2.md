@@ -510,38 +510,6 @@
 
 [Open Building Institute](https://www.openbuildinginstitute.org/)
 
-## people
-
-### alastair-parvin
-
-[Alastair Parvin (@AlastairParvin) | Twitter](https://twitter.com/AlastairParvin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-[opensystemslab](https://www.opensystemslab.io/hello-world)
-
-[Alastair Parvin – Medium](https://medium.com/@AlastairParvin)
-
-### mitchell-joachim
-
-[Mitchell Joachim: Redesign Cities From Scratch | WIRED](https://www.wired.com/2008/09/sl-joachim/)
-
-[Mitchell Joachim, Terreform](http://www.archinode.com/bio.html)
-
-[Home Page John Habraken](http://www.habraken.com/)
-
-[REDEFINING INNOVATION IN THE ARCHITECTURAL PRACTICE – Suleiman Alhadidi](http://alhadidi.com/redefining-innovation-in-the-architectural-practice/)
-
-[Sara Hendren. projects. | Abler.](https://ablersite.org/projects/)
-
-[Scott Mitchell open object](http://www.openobject.org/)
-
-### thomas-lomee
-
-[(7) Thomas Lommée | LinkedIn](https://www.linkedin.com/in/thomas-lomm%C3%A9e-088b535/)
-
-[Thomas Lommée - Das Dynamische Archiv](http://dasdynamischearchiv.de/thomas-lommee/)
-
-[Project team – CAPA CITY](https://www.capa-city-ensuf.eu/projectteam/)
-
 ### sebastien-lucas
 
 [Building Bricks — Bricks team](http://we.openbricks.io/post/121439352247/team)

@@ -23,6 +23,7 @@
 * [IdeaBox](http://www.ideabox.us/)
 * [Intellistructures](https://intellistructures.com/)
 * [MetsaWood](https://www.metsawood.com/global/Campaigns/planb/open-source-wood/Pages/default.aspx)
+* [Open Systems Lab](https://www.opensystemslab.io)
 * [Studio Weave](http://www.studioweave.com/)
 * [Weehouse](http://www.weehouse.com/)
 * [Wikihouse](https://wikihouse.cc/)
@@ -96,3 +97,13 @@
 * [Urban Versioning System](http://uvs.propositions.org.uk/uvslongver.html)
 * [Watly Water Purifier](https://www.telegraph.co.uk/technology/2016/04/23/the-water-purifier-that-also-generates-electricity-and-creates-w/)
 * [Wikihouse Viewer Experiements](http://wikihouse.github.io/viewer-experiments/)
+
+### People
+
+* Alastair Parvin - [Twitter](https://twitter.com/AlastairParvin), [Medium](https://medium.com/@AlastairParvin)
+* Mitchell Joachim - [WIRED - Redesign Cities From Scratch](https://www.wired.com/2008/09/sl-joachim/), [Terreform](http://www.archinode.com/bio.html)
+* John Habraken - [Website](http://www.habraken.com/)
+* Suleiman Alhadidi - [Redefining innovation in the architectural practice](http://alhadidi.com/redefining-innovation-in-the-architectural-practice/)
+* Sara Hendren - [Website](https://ablersite.org/projects/)
+* Scott Mitchell - [OpenObject](http://www.openobject.org/)
+* Thomas Lommée [Das Dynamische Archiv](http://dasdynamischearchiv.de/thomas-lommee/)
