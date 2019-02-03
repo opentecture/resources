@@ -1,33 +1,5 @@
 # opentecture resource bookmarks
 
-[EU2020_Digital](https://espas.secure.europarl.europa.eu/orbis/sites/default/files/generated/document/en/10%20EFFLA%20Study%20-%20Tikka%20-%20Wevolve%20-%20Life%20styles.pdf)
-
-[speckleworks/speckleworks.github.io: the speckleworks website 🌍](https://github.com/speckleworks/speckleworks.github.io)
-
-
-
-
-
-## configurators
-
-[Design spaces - Configuration made simple | Configura](https://www.configura.com/)
-
-[Unity WebGL Player | Blu Design Studio](https://www.bluhomes.com/design_studio/)
-
-[Design spaces - Configuration made simple | Configura](https://www.configura.com/)
-
-## design tools
-
-### archilogic
-
-[Professional Floor Plans To Showcase Your Space | Archilogic](https://archilogic.com/)
-
-[3d.io](https://3d.io/#pricing)
-
-[Professional Floor Plans To Showcase Your Space | Archilogic](https://archilogic.com/)
-
-[3d.io](https://3d.io/)
-
 ### autodesk
 
 [AutoCAD For Mac & Windows | CAD Software | Autodesk](https://www.autodesk.com/products/autocad/overview)
@@ -220,26 +192,4 @@
 
 [danny316p/LEGO\_and\_Open_Source: This is a slide-based presentation prepared for ease of use by anyone, anywhere, for use in discussing how the LEGO fan community and the open source community play off each other.](https://github.com/danny316p/LEGO_and_Open_Source)
 
-[bickworld ***](https://substack.neocities.org/brickworld.html)
-
-## manifestos
-
-[Urban Versioning System 1.0](http://uvs.propositions.org.uk/uvslongver.html)
-
-[APL - Home](http://www.iwritewordsgood.com/apl/set.htm)
-
-[Internet-Manifesto](http://www.internet-manifesto.org/)
-
-[Full text of "Guerilla Open Access Manifesto"](http://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
-
-## news blogs sources
-
-[Andrew Alexander Price](http://www.andrewalexanderprice.com/index.php)
-
-[All Projects Archives - Institute Without Boundaries](http://institutewithoutboundaries.ca/portfolio-category/projects/)
-
-[Journal of Design and Science](https://jods.mitpress.mit.edu/)
-
-[ArchDaily | Broadcasting Architecture Worldwide](https://www.archdaily.com/)
-
-[P2P Foundation | Researching, documenting and promoting peer to peer practices](https://blog.p2pfoundation.net/)
+[bickworld ***](https://substack.neocities.org/brickworld.html)s

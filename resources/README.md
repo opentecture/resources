@@ -12,6 +12,20 @@
 * [Open Building](http://www.open-building.org/ob/concepts.html)
 * [Sears Catalog Homes](https://en.wikipedia.org/wiki/Sears_Catalog_Home) - [Archives](http://www.arts-crafts.com/archive/sears/)
 
+### News and Blog sources
+
+* [Andrew Alexander Price](http://www.andrewalexanderprice.com/index.php)
+* [Journal of Design and Science](https://jods.mitpress.mit.edu/)
+* [ArchDaily](https://www.archdaily.com/)
+* [P2P Foundation Blog](https://blog.p2pfoundation.net/)
+
+### Manifestos
+
+* [Urban Versioning System 1.0](http://uvs.propositions.org.uk/uvslongver.html)
+* [APL - Home](http://www.iwritewordsgood.com/apl/set.htm)
+* [Internet-Manifesto](http://www.internet-manifesto.org/)
+* [Open Access Manifesto](http://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
+
 ### Companies
 
 * [Aetypic](https://aetypic.com/)
@@ -33,7 +47,6 @@
 * [Wikkelhouse](https://www.wikkelhouse.com/)
 * [Unity Homes](https://unityhomes.com/)
 * [Open Collective](https://opencollective.com/)
-
 
 ### Organizations
 
@@ -194,7 +207,6 @@
 * [Tekla BIMsight Home page](http://www.teklabimsight.com/index.jsp)
 * [WhiteFeet](http://www.whitefeet.com/)
 
-
 ### Collaboration
 
 * [Thingpedia - The Open API Collection](https://almond.stanford.edu/thingpedia)
@@ -221,6 +233,7 @@
 ### Other Links
 
 * [3DLT - Wikipedia](https://en.wikipedia.org/wiki/3DLT)
+* [How to Create Your Own Lego Models and Buy Them](https://offspring.lifehacker.com/heres-how-your-kids-can-build-lego-models-digitally-and-1827634553)
 * [Materialise NV - Wikipedia](https://en.wikipedia.org/wiki/Materialise_NV)
 * [Modular building - Wikiwand](http://www.wikiwand.com/en/Modular_building#)
 * [Open Architecture Network - Wikipedia](https://en.wikipedia.org/wiki/Open_Architecture_Network)
