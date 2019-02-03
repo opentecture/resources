@@ -1,20 +1,12 @@
 # opentecture resource bookmarks
 
-### wevolve.us
-
 [EU2020_Digital](https://espas.secure.europarl.europa.eu/orbis/sites/default/files/generated/document/en/10%20EFFLA%20Study%20-%20Tikka%20-%20Wevolve%20-%20Life%20styles.pdf)
-
-[Approach - Wevolve](https://wevolve.us/Approach)
-
-[Infinite orgs - Wevolve](https://wevolve.us/Infinite-orgs)
-
-[Dynamicland](https://dynamicland.org/)
 
 [speckleworks/speckleworks.github.io: the speckleworks website 🌍](https://github.com/speckleworks/speckleworks.github.io)
 
-[Speckle 1.0.0](https://speckle.works/log/versionone/)
 
-[Home - Open Collective](https://opencollective.com/)
+
+
 
 ## configurators
 
@@ -375,31 +367,6 @@
 
 [obricks/open-source-architecture: A directory of open source architecture ressources: platforms, communities, projects...](https://github.com/obricks/open-source-architecture)
 
-### products kits
-[Blokable](https://www.blokable.com/)
-
-[Blu Homes | Modern, Green, Premium Prefab Modular Bay Area Homes](https://www.bluhomes.com/)
-
-[BONE Structure | Steel Construction System for Net Zero Energy Ready Homes](https://bonestructure.ca/en/)
-
-[Home | Avava Dwellings](http://www.avavadwellings.com/)
-
-[Metal Building Homes Guide](http://www.metal-building-homes.com/)
-
-[Modular Buildings For Modern Families | Factory OS](https://factoryos.com/)
-
-[Team | Project Frog](http://projectfrog.com/about/team)
-
-[The Hermit Houses](http://www.hermithouses.nl/)
-
-[Unity WebGL Player | Blu Design Studio](https://www.bluhomes.com/design_studio/)
-
-[Welcome - Unity Homes](https://unityhomes.com/)
-
-[Wikkelhouse - A HOUSE FOR YOU](https://www.wikkelhouse.com/)
-
-[IntelliStructures, Inc](https://intellistructures.com/)
-
 ## reference
 
 ### papers
@@ -456,17 +423,3 @@
 
 [Sears Catalog Home - Wikipedia](https://en.wikipedia.org/wiki/Sears_Catalog_Home)
 [obricks/open-source-architecture: A directory of open source architecture ressources: platforms, communities, projects...](https://github.com/obricks/open-source-architecture)
-
-## services
-
-[Campsyte - Book inspiring outdoor venues for offsites and events](https://campsyte.com/)
-
-[Contact | 3D Repo™ – 3D Version Control System](http://3drepo.org/contact/)
-
-[Page > Guidelines. > show](http://beta.openstructures.net/pages/9)
-
-[Soma cube - Wikipedia](https://en.wikipedia.org/wiki/Soma_cube)
-
-[Pentomino - Wikipedia](https://en.wikipedia.org/wiki/Pentomino)
-
-[Tetris - Wikipedia](https://en.wikipedia.org/wiki/Tetris)

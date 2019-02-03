@@ -15,20 +15,24 @@
 ### Companies
 
 * [Aetypic](https://aetypic.com/)
+* [Avava Dwellings](http://www.avavadwellings.com/)
 * [Blokable](http://www.blokable.com/)
 * [Blu Homes](https://www.bluhomes.com/)
 * [Bone Structure](https://bonestructure.ca/)
 * [Collective Works](http://collectiveworks.net/)
+* [Dynamicland](https://dynamicland.org/)
 * [FactoryOS](https://factoryos.com/)
 * [IdeaBox](http://www.ideabox.us/)
 * [Intellistructures](https://intellistructures.com/)
 * [MetsaWood](https://www.metsawood.com/global/Campaigns/planb/open-source-wood/Pages/default.aspx)
 * [Open Systems Lab](https://www.opensystemslab.io)
 * [Studio Weave](http://www.studioweave.com/)
+* [Wevolve](https://wevolve.us/)
 * [Weehouse](http://www.weehouse.com/)
 * [Wikihouse](https://wikihouse.cc/)
 * [Wikkelhouse](https://www.wikkelhouse.com/)
 * [Unity Homes](https://unityhomes.com/)
+* [Open Collective](https://opencollective.com/)
 
 ### Configurators
 
@@ -46,6 +50,7 @@
 * [Archilogic - 3d.io](https://3d.io/)
 * [Archilogic - Spaces](https://spaces.archilogic.com/explore)
 * [Autodesk - AutoCad](https://www.autodesk.com/products/autocad/overview)
+* [Blu Design Studio](https://www.bluhomes.com/design_studio/)
 * [Componance](http://componance.com/)
 * [Fabhub](https://www.fabhub.io/)
 * [Ladybug Tools](http://ladybug.tools/)
@@ -53,6 +58,7 @@
 * [OpenPlan](http://www.openplan.com/)
 * [OpenStructures](http://openstructures.net/)
 * [Part + Whole](http://www.partandwhole.com/)
+* [Speckle 1.0.0](https://speckle.works/log/versionone/)
 * [Trimble - Sketchup](https://www.sketchup.com/)
 * [Tylko](https://tylko.com/)
 
@@ -78,6 +84,7 @@
 
 * [Metal Building Homes](http://www.metal-building-homes.com/steel-metal-home-building-kit-of-3500-sq-ft-for-36995/#)
 * [Openstructures Philosophy](http://beta.openstructures.net/pages/9#deel5a)
+* [The Hermit Houses](http://www.hermithouses.nl/)
 * [Wikihouse Libary](https://wikihouse.cc/library)
 
 ### Experiments
@@ -165,3 +172,12 @@
 * [Parametric design - Wikipedia](https://en.wikipedia.org/wiki/Parametric_design)
 * [Parametric Design: What's Gotten Lost Amid the Algorithms](https://www.architectmagazine.com/design/parametric-design-whats-gotten-lost-amid-the-algorithms_o)
 * [WHAT IS PARAMETRIC DESIGN?](http://www.parametriccamp.com/en/what-is-parametric-design/)
+
+## Services
+
+* [Campsyte - Book inspiring outdoor venues for offsites and events](https://* campsyte.com/)
+* [Contact | 3D Repo™ – 3D Version Control System](http://3drepo.org/contact/)
+* [Page > Guidelines. > show](http://beta.openstructures.net/pages/9)
+* [Soma cube - Wikipedia](https://en.wikipedia.org/wiki/Soma_cube)
+* [Pentomino - Wikipedia](https://en.wikipedia.org/wiki/Pentomino)
+* [Tetris - Wikipedia](https://en.wikipedia.org/wiki/Tetris)
