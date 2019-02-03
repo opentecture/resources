@@ -69,28 +69,34 @@
 
 * [Mathematical Illustrations - a manual of geometry and postscript](http://www.math.ubc.ca/~cass/graphics/manual/)
 
-### Design Products
+### Software Design Products
 
 * [Archilogic - 3d.io](https://3d.io/)
 * [Archilogic - Spaces](https://spaces.archilogic.com/explore)
 * [Autodesk - AutoCad](https://www.autodesk.com/products/autocad/overview)
 * [Blu Design Studio](https://www.bluhomes.com/design_studio/)
 * [Componance](http://componance.com/)
-* [Fabhub](https://www.fabhub.io/)
 * [Ladybug Tools](http://ladybug.tools/)
 * [Octopart](https://octopart.com/common-parts-library)
 * [OpenPlan](http://www.openplan.com/)
 * [OpenStructures](http://openstructures.net/)
-* [Part + Whole](http://www.partandwhole.com/)
 * [Speckle 1.0.0](https://speckle.works/log/versionone/)
 * [Trimble - Sketchup](https://www.sketchup.com/)
-* [Tylko](https://tylko.com/)
 
 ### 3d Printers / Product Fabrication
 
+* [Fabhub](https://www.fabhub.io/)
+* [Formlabs](https://formlabs.com/)
 * [Kwambio](http://kwambio.com/)
 * [Sculpteo](https://www.sculpteo.com/en/)
 * [Shapeways](https://www.shapeways.com/)
+* [You3Dit](https://www.you3dit.com/)
+
+### Parts and Catalogs
+
+* [GrabCAD Community Library](https://grabcad.com/library)
+* [Part + Whole](http://www.partandwhole.com/)
+* [Tylko](https://tylko.com/)
 
 ### Community + How-to
 
@@ -241,4 +247,4 @@
 * [Building Bricks — Bricks team](http://we.openbricks.io/post/121439352247/team)
 * [ArtStation - Marcin Jakubowski](https://www.artstation.com/jakubowski)
 * [Marcin J. - 3D Warehouse](https://3dwarehouse.sketchup.com/user/1003226431471152943718096/Marcin-J?nav=models)
-* [Open Source Ecology](https://www.opensourceecology.org/)
+* [Open Source Ecology](https://www.opensourceecology.org/gvcs)
