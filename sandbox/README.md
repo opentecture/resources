@@ -17,6 +17,7 @@ This script is a side project of the <a href="https://www.ladybug.tools/spider/#
 
 * Very long read me files with naked links are tedious and uninformative/uncurated
 * Workflows for adding links to bookmarks in your browser then getting these links into markdown are complex
+
 ## Objectives
 
 * Build a list [of resources] good enough for inclusion here: https://github.com/sindresorhus/awesome
