@@ -1,17 +1,19 @@
 # [Sandbox Read Me]( index.html )
 
 
-## [Opentecture Bookmarks View-a-line R1]( https://opentecture.github.io/resources/sandbox/view-a-line-bookmarks.html )
+## [Opentecture Bookmarks View-a-line]( https://opentecture.github.io/resources/sandbox/view-a-line-bookmarks/index.html )
 
 * Opentecture Bookmarks in JSON Lines viewer and editor
 
-## [Opentecture Bookmarks Add-a-line R1]( https://opentecture.github.io/resources/sandbox/add-a-line-bookmarks.html )
+## [Opentecture Bookmarks Add-a-line]( https://opentecture.github.io/resources/sandbox/add-a-line-bookmarks/index.html )
 
-* Opentecture Bookmarks JSON Lines file creator
+* Opentecture Bookmarks file creator: open, parse and save your browser's bookmarks to a JSON lines file
 
 ## Concept
 
-This script is a side project of the <a href="https://www.ladybug.tools/spider/#sandbox/gbxml-to-json-lines/" target="_blank">gbXML to JSON Lines </a> project. It is a work-in-progress continuation of manipulating JSON Lines files in useful ways.
+The scripts here are a side project of the <a href="https://www.ladybug.tools/spider/#sandbox/gbxml-to-json-lines/" target="_blank">gbXML to JSON Lines </a> project. They are a work-in-progress continuation of manipulating JSON Lines files in useful ways.
+
+The scripts 
 
 ## Problem to be solved
 
