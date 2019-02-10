@@ -13,7 +13,8 @@
 
 The scripts here are a side project of the <a href="https://www.ladybug.tools/spider/#sandbox/gbxml-to-json-lines/" target="_blank">gbXML to JSON Lines </a> project. They are a work-in-progress continuation of manipulating JSON Lines files in useful ways.
 
-The scripts 
+The scripts here are also an attempt to explore ways of managing browser bookmarks in a simple and open-source manner.
+
 
 ## Problem to be solved
 
