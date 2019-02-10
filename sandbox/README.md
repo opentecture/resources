@@ -9,6 +9,9 @@
 
 * Opentecture Bookmarks JSON Lines file creator
 
+## Concept
+
+This script is a side project of the <a href="https://www.ladybug.tools/spider/#sandbox/gbxml-to-json-lines/" target="_blank">gbXML to JSON Lines </a> project. It is a work-in-progress continuation of manipulating JSON Lines files in useful ways.
 
 ## Problem to be solved
 
