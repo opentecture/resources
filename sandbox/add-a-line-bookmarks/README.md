@@ -1,7 +1,7 @@
 
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://opentecture.github.io/resources/sandbox/#add-a-line-bookmarks/README.md "View file as a web page." ) </span>
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://opentecture.github.io/mindmapping/sandbox/#add-a-line-bookmarks/README.md "View file as a web page." ) </span>
 
-<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="https://github.com/pushme-pullyou/resources/sandbox/blob/master/add-a-line-bookmarks/README.md"
+<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="https://github.com/opentecture/mindmapping/blob/master/add-a-line-bookmarks/README.md"
 value="You are now in a GitHub web page view - Click this button to view this read me file as source code" ></div>
 
 <br>
@@ -13,20 +13,23 @@ value="You are now in a GitHub web page view - Click this button to view this re
 _<small>Opentecture Bookmarks Add-a-line /small>_
 -->
 
-## Full Screen: [Opentecture Bookmarks Add-a-line ]( https://opentecture.github.io/resources/sandbox/add-a-line-bookmarks/index.html )
+## Full Screen: [Opentecture Bookmarks Add-a-line ]( https://opentecture.github.io/mindmapping/sandbox/add-a-line-bookmarks/index.html )
 
 
 ## Concept
 
 * Opentecture Bookmarks JSON Lines file creator
-* Open the bookmarks JSON file maintained by your browser
-* Extract and display all the JSON bookmarks in the folder and sub-folders
-* Export the data to a JSON Line file
+* Opens the bookmarks JSON file maintained by your browser
+* Extracts and display all the JSON bookmarks in the select folder and sub-folders
+* Exports the data to a JSON Line file
+* Adds folder to search title and first sub-folder as tags
 
 
 
 ## To Do / Wish List
 
+* 2019-02-11 ~ Be able to scan a markdown file full of links - such as in an 'awesome list'
+* Handle adding all sub...-folders as tags
 
 ## Issues
 
@@ -54,6 +57,12 @@ Enhancing the Script
 
 
 ## Change Log
+
+
+### 2019-02-11 ~ Theo
+
+add-a-line-bookmarks.html R2.1
+* Add name of folderToSearch as a tag item
 
 ### 2019-02-10 ~ Theo
 
